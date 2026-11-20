@@ -1,0 +1,1 @@
+This is an implementation of the Monkey programming language as presented in Thorsten Ball's *Writing an Interpreter in Go*.
